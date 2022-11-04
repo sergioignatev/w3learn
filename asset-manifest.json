@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/w3learn/static/css/main.073c9b0a.css",
-    "main.js": "/w3learn/static/js/main.3f34dc70.js",
+    "main.css": "/w3learn/static/css/main.720f9af3.css",
+    "main.js": "/w3learn/static/js/main.de6a7c33.js",
     "static/js/787.e0454d86.chunk.js": "/w3learn/static/js/787.e0454d86.chunk.js",
-    "static/media/logo.svg": "/w3learn/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/w3learn/index.html",
-    "main.073c9b0a.css.map": "/w3learn/static/css/main.073c9b0a.css.map",
-    "main.3f34dc70.js.map": "/w3learn/static/js/main.3f34dc70.js.map",
+    "main.720f9af3.css.map": "/w3learn/static/css/main.720f9af3.css.map",
+    "main.de6a7c33.js.map": "/w3learn/static/js/main.de6a7c33.js.map",
     "787.e0454d86.chunk.js.map": "/w3learn/static/js/787.e0454d86.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.3f34dc70.js"
+    "static/css/main.720f9af3.css",
+    "static/js/main.de6a7c33.js"
   ]
 }
